@@ -159,16 +159,19 @@ Open-source NLP project for sequence classification and model evaluation using H
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamjohri247&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamjohri247&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjohri247&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamjohri247&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivamjohri247&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjohri247&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamjohri247&theme=github_dark)](https://github.com/Shivamjohri247)
+
+</div>
 
 ---
 
