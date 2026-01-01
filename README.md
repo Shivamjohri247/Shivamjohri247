@@ -15,21 +15,42 @@
 
 ---
 
-```python
-class ShivamJohri:
-    role = "Principal AI Engineer @ Suzega"
-    experience = "10+ years"
-    location = "India (Remote)"
+### About Me
 
-    expertise = {
-        "llm": ["Fine-tuning (PEFT/LoRA)", "Prompt Engineering", "Guardrails"],
-        "agents": ["LangChain", "LangGraph", "Semantic Kernel", "Voice Agents"],
-        "mlops": ["Real-time Inference", "Latency Optimization", "Model Observability"],
-        "nlp": ["NER", "Semantic Search", "Embeddings", "RAG Pipelines"]
-    }
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    current_focus = "Architecting autonomous AI agents & production RAG systems"
-```
+**Current Focus**
+- Architecting autonomous AI agents & production RAG systems
+- Building scalable LLM inference pipelines
+- Implementing Responsible AI guardrails
+
+**Role & Experience**
+- Principal AI Engineer @ Suzega
+- 10+ years in AI/ML Engineering
+- Location: India (Remote)
+
+</td>
+<td width="50%" valign="top">
+
+**Key Expertise Areas**
+
+**LLMs & Fine-tuning**
+PEFT/LoRA, Prompt Engineering, Model Guardrails
+
+**Agentic AI**
+LangChain, LangGraph, Semantic Kernel, Voice Agents
+
+**MLOps**
+Real-time Inference, Latency Optimization, Model Observability
+
+**NLP**
+NER, Semantic Search, Embeddings, RAG Pipelines
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,12 +87,9 @@ class ShivamJohri:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Languages & Data**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ---
 
@@ -141,16 +159,16 @@ Open-source NLP project for sequence classification and model evaluation using H
 
 ---
 
-### GitHub Analytics
+### GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shivamjohri247&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjohri247&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivamjohri247&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamjohri247&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamjohri247&theme=github-dark-blue&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjohri247&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
