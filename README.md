@@ -60,8 +60,11 @@ NER, Semantic Search, Embeddings, RAG Pipelines
 
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=flat-square&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth_AI-FF6B6B?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4A154B?style=flat-square)
 
 **ML Frameworks**
@@ -90,6 +93,7 @@ NER, Semantic Search, Embeddings, RAG Pipelines
 **Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
