@@ -161,21 +161,15 @@ Open-source NLP project for sequence classification and model evaluation using H
 
 ### GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamjohri247&theme=github_dark" alt="Contribution Graph" width="100%" />
+</p>
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamjohri247&theme=github_dark)](https://github.com/Shivamjohri247)
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivamjohri247&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivamjohri247&theme=github_dark" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamjohri247&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivamjohri247&theme=github_dark" alt="Most Commit Language" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivamjohri247&theme=github_dark" alt="Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivamjohri247&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamjohri247&theme=github_dark" alt="Top Languages" width="32%" />
+</p>
 
 ---
 
