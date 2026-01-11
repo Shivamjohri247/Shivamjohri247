@@ -2,7 +2,7 @@
 
 # Shivam Johri
 
-**Principal AI Engineer** | 10+ Years in AI/ML
+**Principal AI Engineer** | 10+ Years experience
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LLM+Fine-tuning+%7C+Agentic+AI+%7C+RAG+Pipelines;Building+Production-Grade+AI+at+Scale;Transformers+%7C+LangChain+%7C+Real-time+Inference)](https://github.com/Shivamjohri247)
 
