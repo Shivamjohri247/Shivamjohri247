@@ -166,13 +166,13 @@ Open-source NLP project for sequence classification and model evaluation using H
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamjohri247&theme=github_dark" alt="Contribution Graph" width="100%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivamjohri247&theme=github_dark" alt="Stats" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivamjohri247&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamjohri247&theme=github_dark" alt="Top Languages" width="32%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="32%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="32%" />
+  <img src="./profile-summary-card-output/github_dark/2-repos-per-language.svg" alt="Top Languages" width="32%" />
 </p>
 
 ---
