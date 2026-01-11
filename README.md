@@ -172,7 +172,7 @@ Open-source NLP project for sequence classification and model evaluation using H
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="32%" />
   <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="32%" />
-  <img src="./profile-summary-card-output/github_dark/2-repos-per-language.svg" alt="Top Languages" width="32%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="32%" />
 </p>
 
 ---
