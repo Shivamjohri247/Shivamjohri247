@@ -2,9 +2,9 @@
 
 # Shivam Johri
 
-**AI Architect** | 10+ Years experience
+**AI Architect | Applied AI Lead & Agentic Systems | Multi-Agent Orchestration | Enterprise AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=LLM+Fine-tuning+%7C+Agentic+AI+%7C+RAG+Pipelines;Building+Production-Grade+AI+at+Scale;Transformers+%7C+LangChain+%7C+Real-time+Inference)](https://github.com/Shivamjohri247)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Multi-Agent+Orchestration+%7C+Agentic+AI+Systems;LLM+Engineering+%7C+RAG+%7C+MCP+%7C+A2A;Building+Production-Grade+AI+for+Enterprise+at+Scale;10%2B+Years+in+AI%2FML+Engineering)](https://github.com/Shivamjohri247)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-johri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamjohri247@gmail.com)
@@ -22,13 +22,15 @@
 <td width="50%" valign="top">
 
 **Current Focus**
-- Architecting autonomous AI agents & production RAG systems
-- Building scalable LLM inference pipelines
-- Implementing Responsible AI guardrails
+- Designing production-grade Agentic AI & multi-agent systems for enterprise clients
+- Building autonomous agent workflows across Manufacturing & Financial Services
+- Driving applied R&D in agent accuracy, autonomy, scaling & efficiency
+- Implementing enterprise AI guardrails & Responsible AI governance
 
 **Role & Experience**
-- Principal AI Engineer @ Suzega
+- AI Architect, Applied R&D & Industry Solutions @ Suzega
 - 10+ years in AI/ML Engineering
+- ex-EPAM | ex-Accenture | ex-TCS
 - Location: India (Remote)
 
 </td>
@@ -36,17 +38,20 @@
 
 **Key Expertise Areas**
 
-**LLMs & Fine-tuning**
-PEFT/LoRA, Prompt Engineering, Model Guardrails
+**Multi-Agent Systems & Agentic AI**
+LangGraph, CrewAI, OpenAI Agents SDK, AWS Strands Agents, AutoGen
 
-**Agentic AI**
-LangChain, LangGraph, Semantic Kernel, Voice Agents
+**LLMs & Fine-tuning**
+PEFT/LoRA, Prompt Engineering, Model Guardrails, Agentic RAG
+
+**Agent Protocols & Interoperability**
+MCP, ACP, A2A
+
+**NLP & Search**
+NER, Semantic Search, Embeddings, RAG Pipelines
 
 **MLOps**
 Real-time Inference, Latency Optimization, Model Observability
-
-**NLP**
-NER, Semantic Search, Embeddings, RAG Pipelines
 
 </td>
 </tr>
@@ -56,16 +61,25 @@ NER, Semantic Search, Embeddings, RAG Pipelines
 
 ### Core Expertise
 
+**Agentic AI & Multi-Agent Systems**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=flat-square&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS Strands Agents](https://img.shields.io/badge/AWS_Strands_Agents-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![ACP](https://img.shields.io/badge/ACP-000000?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/Agentic_RAG-4A154B?style=flat-square)
+
 **LLMs & Generative AI**
 
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=flat-square&logoColor=white)
 ![Unsloth](https://img.shields.io/badge/Unsloth_AI-FF6B6B?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4A154B?style=flat-square)
 
 **ML Frameworks**
 
@@ -76,16 +90,19 @@ NER, Semantic Search, Embeddings, RAG Pipelines
 
 **Vector Databases & Search**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **Cloud & MLOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -93,6 +110,7 @@ NER, Semantic Search, Embeddings, RAG Pipelines
 **Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
@@ -132,9 +150,9 @@ Medical text classification using NLP techniques for healthcare domain applicati
 </td>
 <td width="50%">
 
-**[Emotion Classifier](https://github.com/Shivamjohri247)**
+**[Emotion Classifier](https://github.com/Shivamjohri247/emotion-classifier)**
 
-Open-source NLP project for sequence classification and model evaluation using HuggingFace Transformers.
+NLP project for emotion detection in text using sequence classification and HuggingFace Transformers.
 
 `NLP` `Classification` `HuggingFace`
 
@@ -148,17 +166,18 @@ Open-source NLP project for sequence classification and model evaluation using H
 
 | Company | Role | Focus Areas |
 |---------|------|-------------|
-| **Suzega** | Principal AI Engineer | Agentic AI, LangGraph, Voice Agents, RAG Systems |
-| **EPAM Systems** | Senior ML Engineer | NER Fine-tuning, LLM Query Optimization, Semantic Search |
-| **Accenture** | ML Engineering Senior Analyst | GenAI at Scale, Cloud AI Pipelines, Computer Vision |
-| **TCS** | Machine Learning Engineer | ETL Pipelines, Feature Engineering, Data Processing |
+| **Suzega** | AI Architect, Applied R&D & Industry Solutions | Multi-Agent Orchestration, Agentic AI, Manufacturing & Financial Services, Responsible AI |
+| **EPAM Systems** | Senior Data Scientist | NER Fine-tuning, LLM Query Optimization, Semantic Search, Vector Embeddings |
+| **Accenture** | ML Engineering Senior Analyst | GenAI Accelerators, Recommendation Engines, Computer Vision, Document Intelligence |
+| **TCS** | Machine Learning Engineer | Computer Vision, NLP, OCR, Document Intelligence, BFSI R&D |
 
 ---
 
 ### Certifications
 
-![GCP](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_&_LLMs-0056D2?style=flat-square)
 
 ---
@@ -179,6 +198,6 @@ Open-source NLP project for sequence classification and model evaluation using H
 
 <div align="center">
 
-**Open to collaborating on AI/ML projects and discussing production-scale LLM systems**
+**Open to collaborating on Agentic AI, multi-agent systems & production-scale LLM projects**
 
 </div>
