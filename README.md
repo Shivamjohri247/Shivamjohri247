@@ -119,6 +119,17 @@ Real-time Inference, Latency Optimization, Model Observability
 
 <table>
 <tr>
+<td colspan="2">
+
+**[diff-guard](https://github.com/Shivamjohri247/diff-guard)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/diffguard-cli.svg?style=flat-square)](https://pypi.org/project/diffguard-cli/)
+
+Blast radius analyzer for AI-generated code changes. Detects unintended modifications by AI coding agents, measures downstream impact via import-chain analysis, and blocks dangerous commits before they reach production. Works as a git pre-commit hook with integrations for Claude Code, Cursor, Windsurf, and any AI agent. Supports Python (AST), JS/TS, Go, Rust, Java, and more.
+
+`Python` `CLI` `AST Analysis` `Git Hooks` `AI Safety` `PyPI`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 **[llm-finetuning](https://github.com/Shivamjohri247/llm-finetuning)**
