@@ -68,108 +68,30 @@ Real-time Inference • Latency Optimization • Model Observability • AWS/GCP
 
 ---
 
-### 🛠 Tech Stack Constellation
+### 🛠 Tech Stack
 
 <div align="center">
 
-*●○○ Familiar → ●●○ Proficient → ●●● Expert*
+| **Orchestration** | **Protocols** | **Retrieval & Reasoning** |
+|:---:|:---:|:---:|
+| ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-1C3C3C?style=flat-square&logoColor=white) ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-1C1C3C?style=flat-square&logo=openai&logoColor=white) ![AWS Strands](https://img.shields.io/badge/AWS_Strands-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-1A1A2E?style=flat-square&logo=microsoft&logoColor=white) | ![MCP](https://img.shields.io/badge/MCP-2D0D2D?style=flat-square&logoColor=white) ![ACP](https://img.shields.io/badge/ACP-2D0D2D?style=flat-square&logoColor=white) ![A2A](https://img.shields.io/badge/A2A-2D0D2D?style=flat-square&logoColor=white) | ![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-2D0D2D?style=flat-square&logoColor=white) ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-2D0D2D?style=flat-square&logoColor=white) ![Prompt Eng](https://img.shields.io/badge/Prompt_Eng-2D0D2D?style=flat-square&logoColor=white) ![Model Guardrails](https://img.shields.io/badge/Model_Guardrails-2D1F0D?style=flat-square&logoColor=white) |
+
+| **ML Frameworks** | **Cloud & MLOps** | **Languages** |
+|:---:|:---:|:---:|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Unsloth](https://img.shields.io/badge/Unsloth-FF6B6B?style=flat-square&logoColor=white) ![PEFT/LoRA](https://img.shields.io/badge/PEFT_LoRA-F59E0B?style=flat-square&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 </div>
 
-```mermaid
-flowchart LR
-    subgraph O["Orchestration"]
-        LG[LangGraph ●●●]
-        CR[CrewAI ●●●]
-        OA[OpenAI Agents SDK ●●○]
-        AS[AWS Strands ●○○]
-        AG[AutoGen ●●○]
-    end
-    subgraph P["Protocols"]
-        MCP[MCP ●●●]
-        ACP[ACP ●●○]
-        A2A[A2A ●●○]
-    end
-    subgraph R["Retrieval & Reasoning"]
-        RAG[Agentic RAG ●●●]
-        FT[Fine-tuning ●●●]
-        PE[Prompt Eng ●●●]
-        MG[Model Guardrails ●●○]
-    end
-    subgraph M["ML Frameworks"]
-        PT[PyTorch ●●●]
-        TF[TensorFlow ●●○]
-        US[Unsloth ●●○]
-        PL[PEFT/LoRA ●●●]
-        HF[HuggingFace ●●●]
-    end
-    subgraph C["Cloud & MLOps"]
-        AW[AWS Bedrock ●●●]
-        SM[SageMaker ●●○]
-        GC[GCP Vertex AI ●●○]
-        AZ[Azure AI ●○○]
-        K8[Kubernetes ●●○]
-        DK[Docker ●●●]
-        ML[MLflow ●●○]
-    end
-    subgraph L["Languages"]
-        PY[Python ●●●]
-        TS[TypeScript ●●○]
-        GO[Go ●○○]
-    end
-
-    LG --- CR --- OA --- AS --- AG --- LG
-    LG --- MCP
-    CR --- A2A
-    OA --- ACP
-    MCP --- RAG --- MG
-    A2A --- FT
-    ACP --- PE
-    RAG --- PT
-    FT --- US
-    PE --- HF
-    MG --- PL
-    PT --- AW
-    TF --- GC
-    US --- SM
-    PL --- AZ
-    HF --- K8
-    AW --- DK
-    SM --- ML
-    GC --- DK
-    AZ --- ML
-    K8 --- DK
-    PY --- PT
-    TS --- OA
-    GO --- K8
-
-    classDef o fill:#0d2b2b,stroke:#58a6ff,stroke-width:1.5px;
-    classDef p fill:#1a1a2e,stroke:#d97757,stroke-width:1.5px;
-    classDef r fill:#2d0d2d,stroke:#a855f7,stroke-width:1.5px;
-    classDef m fill:#2d1f0d,stroke:#f59e0b,stroke-width:1.5px;
-    classDef c fill:#0d2b0d,stroke:#22c55e,stroke-width:1.5px;
-    classDef l fill:#2d0d0d,stroke:#ef4444,stroke-width:1.5px;
-
-    class LG,CR,OA,AS,AG o;
-    class MCP,ACP,A2A p;
-    class RAG,FT,PE,MG r;
-    class PT,TF,US,PL,HF m;
-    class AW,SM,GC,AZ,K8,DK,ML c;
-    class PY,TS,GO l;
-```
-
 <details>
-<summary><b>📋 View as Table</b></summary>
+<summary><b>📋 Proficiency Legend</b></summary>
 
-| Category | Technologies | Proficiency |
-|----------|--------------|-------------|
-| **Orchestration** | LangGraph, CrewAI, OpenAI Agents SDK, AWS Strands, AutoGen | ●●● ●●● ●●○ ●○○ ●●○ |
-| **Protocols** | MCP, ACP, A2A | ●●● ●●○ ●●○ |
-| **Retrieval & Reasoning** | Agentic RAG, Fine-tuning, Prompt Engineering, Model Guardrails | ●●● ●●● ●●● ●●○ |
-| **ML Frameworks** | PyTorch, TensorFlow, Unsloth, PEFT/LoRA, HuggingFace | ●●● ●●○ ●●○ ●●● ●●● |
-| **Cloud & MLOps** | AWS Bedrock, SageMaker, GCP Vertex AI, Azure AI, Kubernetes, Docker, MLflow | ●●● ●●○ ●●○ ●○○ ●●○ ●●● ●●○ |
-| **Languages** | Python, TypeScript, Go | ●●● ●●○ ●○○ |
+| Level | Indicator | Description |
+|-------|-----------|-------------|
+| **Expert** | ●●● | Production systems, deep internals, can teach/lead |
+| **Proficient** | ●●○ | Independent work, solid understanding, occasional reference |
+| **Familiar** | ●○○ | Basic usage, learning actively, needs guidance |
 
+**Key synergies:** LangGraph ↔ CrewAI (orchestration) • MCP ↔ A2A (protocols) • PyTorch ↔ HuggingFace (ML) • AWS Bedrock ↔ SageMaker (cloud) • Python → all ML stack
 </details>
 
 ---
