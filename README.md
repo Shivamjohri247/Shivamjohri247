@@ -72,96 +72,94 @@ Real-time Inference • Latency Optimization • Model Observability • AWS/GCP
 
 <div align="center">
 
-*Dot size = proficiency (●○○ Familiar → ●●● Expert) • Connections = real project synergies*
+*●○○ Familiar → ●●○ Proficient → ●●● Expert*
 
 </div>
 
 ```mermaid
-graph LR
-    subgraph Orchestration["Orchestration Core"]
-        LG[LangGraph / ●●●]
-        CR[CrewAI / ●●●]
-        OA[OpenAI Agents SDK / ●●○]
-        AS[AWS Strands / ●○○]
-        AG[AutoGen / ●●○]
+flowchart LR
+    subgraph O["Orchestration"]
+        LG[LangGraph ●●●]
+        CR[CrewAI ●●●]
+        OA[OpenAI Agents SDK ●●○]
+        AS[AWS Strands ●○○]
+        AG[AutoGen ●●○]
+    end
+    subgraph P["Protocols"]
+        MCP[MCP ●●●]
+        ACP[ACP ●●○]
+        A2A[A2A ●●○]
+    end
+    subgraph R["Retrieval & Reasoning"]
+        RAG[Agentic RAG ●●●]
+        FT[Fine-tuning ●●●]
+        PE[Prompt Eng ●●●]
+        MG[Model Guardrails ●●○]
+    end
+    subgraph M["ML Frameworks"]
+        PT[PyTorch ●●●]
+        TF[TensorFlow ●●○]
+        US[Unsloth ●●○]
+        PL[PEFT/LoRA ●●●]
+        HF[HuggingFace ●●●]
+    end
+    subgraph C["Cloud & MLOps"]
+        AW[AWS Bedrock ●●●]
+        SM[SageMaker ●●○]
+        GC[GCP Vertex AI ●●○]
+        AZ[Azure AI ●○○]
+        K8[Kubernetes ●●○]
+        DK[Docker ●●●]
+        ML[MLflow ●●○]
+    end
+    subgraph L["Languages"]
+        PY[Python ●●●]
+        TS[TypeScript ●●○]
+        GO[Go ●○○]
     end
 
-    subgraph Protocols["Agent Protocols"]
-        MCP[MCP / ●●●]
-        ACP[ACP / ●●○]
-        A2A[A2A / ●●○]
-    end
-
-    subgraph RAG["Retrieval & Reasoning"]
-        RAG[Agentic RAG / ●●●]
-        FT[Fine-tuning / ●●●]
-        PE[Prompt Eng / ●●●]
-        MG[Model Guardrails / ●●○]
-    end
-
-    subgraph MLFrameworks["ML Frameworks"]
-        PT[PyTorch / ●●●]
-        TF[TensorFlow / ●●○]
-        US[Unsloth / ●●○]
-        PEFT[PEFT/LoRA / ●●●]
-        HF[HuggingFace / ●●●]
-    end
-
-    subgraph CloudMLOps["Cloud & MLOps"]
-        AW[AWS Bedrock / ●●●]
-        SM[SageMaker / ●●○]
-        GC[GCP Vertex AI / ●●○]
-        AZ[Azure AI / ●○○]
-        K8[Kubernetes / ●●○]
-        DK[Docker / ●●●]
-        ML[MLflow / ●●○]
-    end
-
-    subgraph Languages["Languages"]
-        PY[Python / ●●●]
-        TS[TypeScript / ●●○]
-        GO[Go / ●○○]
-    end
-
-    LG --- CR
-    CR --- OA
-    OA --- AS
-    AS --- AG
-    AG --- LG
-
+    LG --- CR --- OA --- AS --- AG --- LG
     LG --- MCP
     CR --- A2A
     OA --- ACP
-
-    MCP --- RAG
+    MCP --- RAG --- MG
     A2A --- FT
     ACP --- PE
-    RAG --- MG
-
     RAG --- PT
     FT --- US
     PE --- HF
-    MG --- PEFT
-
+    MG --- PL
     PT --- AW
     TF --- GC
     US --- SM
-    PEFT --- AZ
+    PL --- AZ
     HF --- K8
-
     AW --- DK
     SM --- ML
     GC --- DK
     AZ --- ML
     K8 --- DK
-
     PY --- PT
     TS --- OA
     GO --- K8
+
+    classDef o fill:#0d2b2b,stroke:#58a6ff,stroke-width:1.5px;
+    classDef p fill:#1a1a2e,stroke:#d97757,stroke-width:1.5px;
+    classDef r fill:#2d0d2d,stroke:#a855f7,stroke-width:1.5px;
+    classDef m fill:#2d1f0d,stroke:#f59e0b,stroke-width:1.5px;
+    classDef c fill:#0d2b0d,stroke:#22c55e,stroke-width:1.5px;
+    classDef l fill:#2d0d0d,stroke:#ef4444,stroke-width:1.5px;
+
+    class LG,CR,OA,AS,AG o;
+    class MCP,ACP,A2A p;
+    class RAG,FT,PE,MG r;
+    class PT,TF,US,PL,HF m;
+    class AW,SM,GC,AZ,K8,DK,ML c;
+    class PY,TS,GO l;
 ```
 
 <details>
-<summary><b>📋 View as Table (fallback)</b></summary>
+<summary><b>📋 View as Table</b></summary>
 
 | Category | Technologies | Proficiency |
 |----------|--------------|-------------|
