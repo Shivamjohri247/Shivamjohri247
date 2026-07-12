@@ -72,56 +72,55 @@ Real-time Inference • Latency Optimization • Model Observability • AWS/GCP
 
 <div align="center">
 
-*Dot size = proficiency level (●○○ Familiar → ●●● Expert) • Connections = real project synergies*
+*Dot size = proficiency (●○○ Familiar → ●●● Expert) • Connections = real project synergies*
 
 </div>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#0D1117', 'primaryTextColor': '#E6EDF3', 'primaryBorderColor': '#30363D', 'lineColor': '#58A6FF', 'secondaryColor': '#161B22', 'tertiaryColor': '#21262D'}}}%%
 graph LR
-    subgraph Orchestration["🎭 Orchestration Core"]
-        LG[LangGraph<br/>●●●]
-        CR[CrewAI<br/>●●●]
-        OA[OpenAI Agents SDK<br/>●●○]
-        AS[AWS Strands<br/>●○○]
-        AG[AutoGen<br/>●●○]
+    subgraph Orchestration["Orchestration Core"]
+        LG[LangGraph / ●●●]
+        CR[CrewAI / ●●●]
+        OA[OpenAI Agents SDK / ●●○]
+        AS[AWS Strands / ●○○]
+        AG[AutoGen / ●●○]
     end
 
-    subgraph Protocols["🔗 Agent Protocols"]
-        MCP[MCP<br/>●●●]
-        ACP[ACP<br/>●●○]
-        A2A[A2A<br/>●●○]
+    subgraph Protocols["Agent Protocols"]
+        MCP[MCP / ●●●]
+        ACP[ACP / ●●○]
+        A2A[A2A / ●●○]
     end
 
-    subgraph RAG["🧠 Retrieval & Reasoning"]
-        RAG[Agentic RAG<br/>●●●]
-        FT[Fine-tuning<br/>●●●]
-        PE[Prompt Eng<br/>●●●]
-        MG[Model Guardrails<br/>●●○]
+    subgraph RAG["Retrieval & Reasoning"]
+        RAG[Agentic RAG / ●●●]
+        FT[Fine-tuning / ●●●]
+        PE[Prompt Eng / ●●●]
+        MG[Model Guardrails / ●●○]
     end
 
-    subgraph MLFrameworks["⚙️ ML Frameworks"]
-        PT[PyTorch<br/>●●●]
-        TF[TensorFlow<br/>●●○]
-        US[Unsloth<br/>●●○]
-        PEFT[PEFT/LoRA<br/>●●●]
-        HF[HuggingFace<br/>●●●]
+    subgraph MLFrameworks["ML Frameworks"]
+        PT[PyTorch / ●●●]
+        TF[TensorFlow / ●●○]
+        US[Unsloth / ●●○]
+        PEFT[PEFT/LoRA / ●●●]
+        HF[HuggingFace / ●●●]
     end
 
-    subgraph CloudMLOps["☁️ Cloud & MLOps"]
-        AW[AWS Bedrock<br/>●●●]
-        SM[SageMaker<br/>●●○]
-        GC[GCP Vertex AI<br/>●●○]
-        AZ[Azure AI<br/>●○○]
-        K8[Kubernetes<br/>●●○]
-        DK[Docker<br/>●●●]
-        ML[MLflow<br/>●●○]
+    subgraph CloudMLOps["Cloud & MLOps"]
+        AW[AWS Bedrock / ●●●]
+        SM[SageMaker / ●●○]
+        GC[GCP Vertex AI / ●●○]
+        AZ[Azure AI / ●○○]
+        K8[Kubernetes / ●●○]
+        DK[Docker / ●●●]
+        ML[MLflow / ●●○]
     end
 
-    subgraph Languages["💻 Languages"]
-        PY[Python<br/>●●●]
-        TS[TypeScript<br/>●●○]
-        GO[Go<br/>●○○]
+    subgraph Languages["Languages"]
+        PY[Python / ●●●]
+        TS[TypeScript / ●●○]
+        GO[Go / ●○○]
     end
 
     LG --- CR
@@ -174,6 +173,20 @@ graph LR
     class AW,SM,GC,AZ,K8,DK,ML cloud;
     class PY,TS,GO lang;
 ```
+
+<details>
+<summary><b>📋 View as Table (fallback)</b></summary>
+
+| Category | Technologies | Proficiency |
+|----------|--------------|-------------|
+| **Orchestration** | LangGraph, CrewAI, OpenAI Agents SDK, AWS Strands, AutoGen | ●●● ●●● ●●○ ●○○ ●●○ |
+| **Protocols** | MCP, ACP, A2A | ●●● ●●○ ●●○ |
+| **Retrieval & Reasoning** | Agentic RAG, Fine-tuning, Prompt Engineering, Model Guardrails | ●●● ●●● ●●● ●●○ |
+| **ML Frameworks** | PyTorch, TensorFlow, Unsloth, PEFT/LoRA, HuggingFace | ●●● ●●○ ●●○ ●●● ●●● |
+| **Cloud & MLOps** | AWS Bedrock, SageMaker, GCP Vertex AI, Azure AI, Kubernetes, Docker, MLflow | ●●● ●●○ ●●○ ●○○ ●●○ ●●● ●●○ |
+| **Languages** | Python, TypeScript, Go | ●●● ●●○ ●○○ |
+
+</details>
 
 ---
 
@@ -267,7 +280,7 @@ Emotion detection in text using sequence classification and HuggingFace Transfor
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_&_LLMs-0056D2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEycyA0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxN2gxdjVoLTF6bTAgLTloMXYtNWgtMXoiLz48L3N2Zz4=)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_%26_LLMs-0056D2?style=flat-square)
 
 </div>
 
@@ -275,15 +288,15 @@ Emotion detection in text using sequence classification and HuggingFace Transfor
 
 ### 📈 GitHub Activity
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution Graph" width="100%" />
-</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamjohri247&theme=tokyonight" alt="Contribution Graph" width="100%" />
+</div>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="32%" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="32%" />
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="32%" />
-</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivamjohri247&theme=tokyonight" alt="Stats" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivamjohri247&theme=tokyonight" alt="Productive Time" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamjohri247&theme=tokyonight" alt="Top Languages" width="32%" />
+</div>
 
 ---
 
@@ -311,5 +324,5 @@ Emotion detection in text using sequence classification and HuggingFace Transfor
 ---
 
 <div align="center">
-<img src="https://readme-svg-wave-divider-generator.vercel.app/api/wave?type=sine&width=1200&height=120&amplitude=40&frequency=2&layers=3&color_top=58A6FF&color_bottom=0D1117&opacity=1&gradient=true&mirror=true&flip=false&animate=true&speed=6&text=SHIVAM%20JOHRI&text_color=E6EDF3&text_size=24&text_style=bold&text_stroke_color=0D1117&text_stroke_width=1" alt="Wave Divider" />
+<img src="https://readme-svg-wave-divider-generator.vercel.app/api/wave?type=sine&width=1200&height=80&amplitude=30&frequency=2&layers=2&color_top=58A6FF&color_bottom=0D1117&opacity=1&gradient=true&mirror=true&flip=false&animate=true&speed=6" alt="Wave Divider" />
 </div>
