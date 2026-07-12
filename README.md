@@ -266,7 +266,7 @@ Emotion detection in text using sequence classification and HuggingFace Transfor
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_%26_LLMs-0056D2?style=flat-square)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_%26_LLMs-0056D2?style=flat-square&logo=deeplearning.ai&logoColor=white)
 
 </div>
 
