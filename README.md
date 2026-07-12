@@ -100,9 +100,11 @@ Real-time Inference • Latency Optimization • Model Observability • AWS/GCP
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamjohri247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamjohri247&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjohri247&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivamjohri247&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamjohri247&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivamjohri247&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivamjohri247&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
