@@ -158,20 +158,6 @@ graph LR
     PY --- PT
     TS --- OA
     GO --- K8
-
-    classDef core fill:#1C3C3C,stroke:#58A6FF,stroke-width:2px,color:#E6EDF3;
-    classDef proto fill:#1C1C3C,stroke:#D97757,stroke-width:2px,color:#E6EDF3;
-    classDef rag fill:#3C1C3C,stroke:#A855F7,stroke-width:2px,color:#E6EDF3;
-    classDef ml fill:#3C2C1C,stroke:#F59E0B,stroke-width:2px,color:#E6EDF3;
-    classDef cloud fill:#1C3C1C,stroke:#22C55E,stroke-width:2px,color:#E6EDF3;
-    classDef lang fill:#3C1C1C,stroke:#EF4444,stroke-width:2px,color:#E6EDF3;
-
-    class LG,CR,OA,AS,AG core;
-    class MCP,ACP,A2A proto;
-    class RAG,FT,PE,MG rag;
-    class PT,TF,US,PEFT,HF ml;
-    class AW,SM,GC,AZ,K8,DK,ML cloud;
-    class PY,TS,GO lang;
 ```
 
 <details>
