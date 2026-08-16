@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="258" viewBox="0 0 880 258" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" role="img">
+<rect width="880" height="258" rx="10" fill="#ffffff"/>
+<path d="M0 10a10 10 0 0 1 10-10h860a10 10 0 0 1 10 10v24H0z" fill="#f6f8fa"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="440" y="22" font-size="12" fill="#656d76" text-anchor="middle">shivam@github — crontab</text>
+<text x="26" y="72" font-size="13" xml:space="preserve"><tspan fill="#1a7f37">shivam@github</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328">sudo echo "* * * * * /usr/local/bin/diff-guard --watch" &gt;&gt; /tmp/crontab$$</tspan></text>
+<text x="26" y="98" font-size="13" fill="#656d76" xml:space="preserve">[sudo] Password for shivam:</text>
+<text x="26" y="128" font-size="13" fill="#1f2328" xml:space="preserve">BEARing down on bad diffs before they ship...</text>
+<text x="26" y="152" font-size="13" fill="#bc4c00" xml:space="preserve">  .-""""-.</text>
+<text x="26" y="168" font-size="13" fill="#bc4c00" xml:space="preserve"> /  ◕  ◕  \        [agent]</text>
+<text x="26" y="184" font-size="13" fill="#bc4c00" xml:space="preserve">|    ᴗ     |</text>
+<text x="26" y="200" font-size="13" fill="#bc4c00" xml:space="preserve">|  \___/   |</text>
+<text x="26" y="216" font-size="13" fill="#bc4c00" xml:space="preserve"> \  `-`   /</text>
+<text x="26" y="232" font-size="13" fill="#bc4c00" xml:space="preserve">  `-.__.-'</text>
+</svg>

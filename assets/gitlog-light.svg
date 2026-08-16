@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="428" viewBox="0 0 880 428" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" role="img">
+<rect width="880" height="428" rx="10" fill="#ffffff"/>
+<path d="M0 10a10 10 0 0 1 10-10h860a10 10 0 0 1 10 10v24H0z" fill="#f6f8fa"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="440" y="22" font-size="12" fill="#656d76" text-anchor="middle">shivam@github — git log</text>
+<text x="26" y="72" font-size="13" xml:space="preserve"><tspan fill="#1a7f37">shivam@github</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328">git log --author="Shivam Johri" --oneline --decorate</tspan></text>
+<text x="26" y="98" font-size="13" fill="#7d4e00" xml:space="preserve">a7f3c21 (HEAD -&gt; main)  2025-07   AI Architect, Applied R&amp;D · Suzega</text>
+<text x="26" y="118" font-size="13" fill="#1f2328" xml:space="preserve">          multi-agent BOM automation — quote gen 3 days → &lt;4 hrs</text>
+<text x="26" y="138" font-size="13" fill="#1f2328" xml:space="preserve">          underwriting assistant topology across 6 downstream systems</text>
+<text x="26" y="158" font-size="13" fill="#1f2328" xml:space="preserve">          enterprise AI guardrails for regulated BFSI + manufacturing</text>
+<text x="26" y="186" font-size="13" fill="#7d4e00" xml:space="preserve">3d9b104                 2024-02   Senior ML Engineer · EPAM Systems</text>
+<text x="26" y="206" font-size="13" fill="#1f2328" xml:space="preserve">          NER fine-tuning pipeline — accuracy +77% @ 100K+ queries/day</text>
+<text x="26" y="226" font-size="13" fill="#1f2328" xml:space="preserve">          query expansion — coverage +25%, latency −35%, tokens −40%</text>
+<text x="26" y="246" font-size="13" fill="#1f2328" xml:space="preserve">          semantic search + XGB rerank — 92% precision on 2M+ docs</text>
+<text x="26" y="274" font-size="13" fill="#7d4e00" xml:space="preserve">8c15ae7                 2021-09   Senior Analyst, ML Engineering · Accenture</text>
+<text x="26" y="294" font-size="13" fill="#1f2328" xml:space="preserve">          document intelligence for top-tier life sciences client</text>
+<text x="26" y="314" font-size="13" fill="#1f2328" xml:space="preserve">          regulatory + pharmacovigilance pipelines — manual effort −40%</text>
+<text x="26" y="334" font-size="13" fill="#1f2328" xml:space="preserve">          recommendation engine POC — 10K+ users, engagement +15%</text>
+<text x="26" y="362" font-size="13" fill="#7d4e00" xml:space="preserve">1b0d8f2                 2016-03   ML Engineer / Test Analyst · TCS</text>
+<text x="26" y="382" font-size="13" fill="#1f2328" xml:space="preserve">          OCR + CTPN ETL — 200K+ docs, 18–20 financial doc types</text>
+<text x="26" y="402" font-size="13" fill="#1f2328" xml:space="preserve">          manual validation cost −30% · CV models for BFSI R&amp;D</text>
+</svg>

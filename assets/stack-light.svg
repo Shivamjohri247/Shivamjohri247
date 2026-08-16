@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="384" viewBox="0 0 880 384" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" role="img">
+<rect width="880" height="384" rx="10" fill="#ffffff"/>
+<path d="M0 10a10 10 0 0 1 10-10h860a10 10 0 0 1 10 10v24H0z" fill="#f6f8fa"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="440" y="22" font-size="12" fill="#656d76" text-anchor="middle">shivam@github — stack</text>
+<text x="26" y="72" font-size="13" xml:space="preserve"><tspan fill="#1a7f37">shivam@github</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328">tree -L 2 ~/.stack</tspan></text>
+<text x="26" y="98" font-size="13" fill="#0969da" xml:space="preserve">~/.stack</text>
+<text x="26" y="118" font-size="13" fill="#0969da" xml:space="preserve">├── agents/</text>
+<text x="26" y="138" font-size="13" fill="#1f2328" xml:space="preserve">│   ├── langgraph  crewai  openai-agents-sdk  semantic-kernel</text>
+<text x="26" y="158" font-size="13" fill="#1f2328" xml:space="preserve">│   ├── mcp  react  tool-calling  human-in-the-loop</text>
+<text x="26" y="178" font-size="13" fill="#1f2328" xml:space="preserve">│   └── agentic-rag  langsmith  guardrails</text>
+<text x="26" y="198" font-size="13" fill="#0969da" xml:space="preserve">├── ml/</text>
+<text x="26" y="218" font-size="13" fill="#1f2328" xml:space="preserve">│   ├── pytorch  tensorflow  huggingface</text>
+<text x="26" y="238" font-size="13" fill="#1f2328" xml:space="preserve">│   └── peft  lora  qlora  prompt-engineering  ner</text>
+<text x="26" y="258" font-size="13" fill="#0969da" xml:space="preserve">├── platform/</text>
+<text x="26" y="278" font-size="13" fill="#1f2328" xml:space="preserve">│   ├── aws{sagemaker,bedrock,lambda}  gcp-vertex  azure-ai</text>
+<text x="26" y="298" font-size="13" fill="#1f2328" xml:space="preserve">│   └── docker  kubernetes  mlflow  ci-cd  observability</text>
+<text x="26" y="318" font-size="13" fill="#0969da" xml:space="preserve">└── data/</text>
+<text x="26" y="338" font-size="13" fill="#1f2328" xml:space="preserve">    ├── python  go  fastapi  spark  sql</text>
+<text x="26" y="358" font-size="13" fill="#1f2328" xml:space="preserve">    └── pinecone  chromadb  pgvector  elasticsearch</text>
+</svg>
